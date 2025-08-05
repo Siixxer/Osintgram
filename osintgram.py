@@ -117,5 +117,7 @@ while True:
 
     if args.command:
         break
+        python3 -m venv venv
+
 
 
